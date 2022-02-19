@@ -72,19 +72,19 @@ params:
   descripe_l2_person: "You can find my works [here](#projects)"
   skills:
   - name: Data Science
-  percentage: 90
+    percentage: 90
   - name: Machine Learning
-  percentage: 95
+    percentage: 95
   - name: Computer Vision
-  percentage: 95
+    percentage: 95
   - name: Deep Learning
-  percentage: 80
+    percentage: 80
   - name: Data Structures & Algorithms
-  percentage: 85
+    percentage: 85
   # Experience
   disable_experience: false
   experience:
-    - company: "Google"
+    - company: "Yahoo!"
       # id: "google-developer"   // use this, when you want to change the id(used for navigation)
       role: "Software developer"
       startdate: Feb 2021
