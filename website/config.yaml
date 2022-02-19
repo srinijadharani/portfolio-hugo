@@ -98,14 +98,14 @@ params:
       featuredpoints:
         - point: Lead backend developer for a product.
         - point: Created a frontend design for a product.
-    - company: "GITAM Deemed to be University"
-      # id: "amazon-developer" // use this, when you want to change the id(used for navigation)
-      role: "Fullstack developer"
-      startdate: Feb 2019
-      enddate: Jan 2020
-      featuredpoints:
-        - point: Lead backend developer for a product.
-#         - point: Created a frontend design for a product.
+#     - company: "GITAM Deemed to be University"
+#       # id: "amazon-developer" // use this, when you want to change the id(used for navigation)
+#       role: "Fullstack developer"
+#       startdate: Feb 2019
+#       enddate: Jan 2020
+#       featuredpoints:
+#         - point: Lead backend developer for a product.
+# #         - point: Created a frontend design for a product.
      - company: "Speaking Club, GITAM Deemed to be University"
       # id: "amazon-developer" // use this, when you want to change the id(used for navigation)
       role: "Fullstack developer"
