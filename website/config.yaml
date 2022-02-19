@@ -49,7 +49,7 @@ params:
   version: 3
   customCSS: false
 
-  favicon: "/images/favicon.png"
+  favicon: "portfolio-hugo/images/favicon.png"
   description: "A high performance hugo theme for personal portfolio and blog."
 
   # home
