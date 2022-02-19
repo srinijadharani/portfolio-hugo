@@ -1,4 +1,4 @@
-baseURL: "https://hugo-profile.netlify.app"
+baseURL: "https://srinijad.netlify.app/"
 languageCode: "en-us"
 title: "Srinija Dharani"
 theme: "./.."
@@ -53,15 +53,11 @@ params:
   # home
   disable_home: false
   profile_image: "/images/profile.png"
-  name: "Example name"
+  name: "Srinija Dharani"
   namecolor: ffc107
-  profession: "Profession"
-  github: "https://github.com"
-  gitlab: "https://gitlab.com"
-  linkedin: "https://linkedin.com"
-  twitter: "https://twitter.com/"
-  instagram: "https://instagram.com/"
-  facebook: "https://facebook.com"
+  github: "https://github.com/srinijadharani"
+  linkedin: "https://www.linkedin.com/in/srinijadharani/"
+  instagram: "https://www.instagram.com/srinija.dharani/"
 
   #Custom social links
   # customSocialLinks:
@@ -72,7 +68,7 @@ params:
   
   # About
   disable_about: false
-  descripe_l1_person: "Hi, I'm Profile, a passionate web developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
+  descripe_l1_person: "Hi! I'm Srinija. I'm a student at GITAM University, Bangalore, pursuing bachelors in technology, majoring in computer science and engineering."
   descripe_l2_person: "This is a example template for about section. You can find my works [here](#projects)"
   skills:
     - name: CSS
