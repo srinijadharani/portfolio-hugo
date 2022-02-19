@@ -49,7 +49,7 @@ params:
   version: 3
   customCSS: false
 
-  favicon: "https://cdn-icons.flaticon.com/png/512/2814/premium/2814666.png?token=exp=1645277951~hmac=b383850cf4c00a59885fd0d9cabc27c9"
+  favicon: "/images/2814666.png"
   description: "A high performance hugo theme for personal portfolio and blog."
 
   # home
