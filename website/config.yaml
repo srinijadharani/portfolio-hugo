@@ -48,7 +48,7 @@ Menus:
 params:
   version: 3
   customCSS: false
-  favicon: "website/static/images/favicon.ico"
+  favicon: ""
 
   # home
   disable_home: false
