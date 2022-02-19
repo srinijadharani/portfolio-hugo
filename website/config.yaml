@@ -57,14 +57,12 @@ params:
   namecolor: ffc107
   github: "https://github.com/srinijadharani"
   linkedin: "https://www.linkedin.com/in/srinijadharani/"
-  instagram: "https://www.instagram.com/srinija.dharani/"
-
-  #Custom social links
-  # customSocialLinks:
-  #   - imageURL: "https://hugo-profile.netlify.app/images/fav.png"
-  #     url: "https://gohugo.com"
-  #   - fontAwesomeIconName: "fa fa-envelope"
-  #     url: "https://gmail.com"
+  
+  customSocialLinks:
+    - imageURL: "https://hugo-profile.netlify.app/images/fav.png"
+      url: "https://gohugo.com"
+    - fontAwesomeIconName: "fa fa-envelope"
+      url: "https://gmail.com"
   
   # About
   disable_about: false
