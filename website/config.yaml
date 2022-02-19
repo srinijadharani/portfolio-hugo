@@ -48,8 +48,6 @@ Menus:
 params:
   version: 3
   customCSS: false
-  favicon: "favicon.png"
-  description: "A high performance hugo theme for personal portfolio and blog."
 
   # home
   disable_home: false
