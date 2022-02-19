@@ -48,7 +48,7 @@ Menus:
 params:
   version: 3
   customCSS: false
-  favicon: "/images/favicon.png"
+  favicon: "static/images/favicon.png"
 
   # home
   disable_home: false
