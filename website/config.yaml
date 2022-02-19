@@ -66,8 +66,8 @@ params:
   
   # About
   disable_about: false
-  descripe_l1_person: "Not your usual data science enthusiast. I am a total data fanatic; with so much data available, I love deriving valuable insights. I clean and analyse data for fun. I love mathematics as well. Since data science and machine learning use math extensively, I enjoy exploring and studying data even more! I also like working on artificial neural networks and natural language processing. I code primarily in Python. <br> I have experience developing front-end websites, and I've designed websites for two student clubs in my college. I also have managerial experience; I was successful in helping build two student bodies in the past that are now fully functioning independently."
-  descripe_l2_person: "You can find my works [here](#projects)."
+  descripe_l1_person: "Not your usual data science enthusiast. I am a total data fanatic; with so much data available, I love deriving valuable insights. I clean and analyse data for fun. I love mathematics as well. Since data science and machine learning use math extensively, I enjoy exploring and studying data even more! I also like working on artificial neural networks and natural language processing. I code primarily in Python."
+  descripe_l2_person: "I have experience developing front-end websites, and I've designed websites for two student clubs in my college. I also have managerial experience; I was successful in helping build two student bodies in the past that are now fully functioning independently. You can find my works [here](#projects)."
   skills:
   - name: Data Science
     percentage: 90
