@@ -90,7 +90,7 @@ params:
       featuredpoints:
         - point: As a GitHub Campus Expert, I strive to build an active and thriving technical community on campus for like-minded people and bring awareness among people about how technology could significantly impact people's lives in the coming future.
         - point: -------
-    - company: "Facebook"
+    - company: "Microsoft"
       # id: "facebook-developer" // use this, when you want to change the id(used for navigation)
       role: "Fullstack developer"
       startdate: Mar 2020
@@ -98,7 +98,23 @@ params:
       featuredpoints:
         - point: Lead backend developer for a product.
         - point: Created a frontend design for a product.
-    - company: "Amazon"
+    - company: "GITAM Deemed to be University"
+      # id: "amazon-developer" // use this, when you want to change the id(used for navigation)
+      role: "Fullstack developer"
+      startdate: Feb 2019
+      enddate: Jan 2020
+      featuredpoints:
+        - point: Lead backend developer for a product.
+        - point: Created a frontend design for a product.
+     - company: "Speaking Club, GITAM Deemed to be University"
+      # id: "amazon-developer" // use this, when you want to change the id(used for navigation)
+      role: "Fullstack developer"
+      startdate: Feb 2019
+      enddate: Jan 2020
+      featuredpoints:
+        - point: Lead backend developer for a product.
+        - point: Created a frontend design for a product.
+     - company: "Entrepreneurs' Club, GITAM Deemed to be University"
       # id: "amazon-developer" // use this, when you want to change the id(used for navigation)
       role: "Fullstack developer"
       startdate: Feb 2019
