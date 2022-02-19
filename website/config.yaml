@@ -71,12 +71,16 @@ params:
   descripe_l1_person: "Hi! I'm Srinija. I'm a student at GITAM University, Bangalore, pursuing bachelors in technology, majoring in computer science and engineering."
   descripe_l2_person: "You can find my works [here](#projects)"
   skills:
-  - Data Science
-  - Machine Learning
-  - Computer Vision
-  - Deep Learning
-  - Data Structures & Algorithms
-
+  - name: Data Science
+  percentage: 90
+  - name: Machine Learning
+  percentage: 95
+  - name: Computer Vision
+  percentage: 95
+  - name: Deep Learning
+  percentage: 80
+  - name: Data Structures & Algorithms
+  percentage: 85
   # Experience
   disable_experience: false
   experience:
