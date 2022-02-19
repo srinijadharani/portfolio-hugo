@@ -49,9 +49,6 @@ params:
   version: 3
   customCSS: false
 
-  favicon: "portfolio-hugo/images/favicon.png"
-  description: "A high performance hugo theme for personal portfolio and blog."
-
   # home
   disable_home: false
   profile_image: "/images/profile.png"
