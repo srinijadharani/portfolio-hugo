@@ -82,14 +82,13 @@ params:
   # Experience
   disable_experience: false
   experience:
-    - company: "Yahoo!"
+    - company: "GitHub"
       # id: "google-developer"   // use this, when you want to change the id(used for navigation)
-      role: "Software developer"
-      startdate: Feb 2021
+      role: "Campus Expert"
+      startdate: October 2021
       enddate: present
       featuredpoints:
-        - point: Lead backend developer for a product.
-        - point: Created a frontend design for a product.
+        - point: As a GitHub Campus Expert, I strive to build an active and thriving technical community on campus for like-minded people and bring awareness among people about how technology could significantly impact people's lives in the coming future.
     - company: "Facebook"
       # id: "facebook-developer" // use this, when you want to change the id(used for navigation)
       role: "Fullstack developer"
