@@ -89,6 +89,7 @@ params:
       enddate: present
       featuredpoints:
         - point: As a GitHub Campus Expert, I strive to build an active and thriving technical community on campus for like-minded people and bring awareness among people about how technology could significantly impact people's lives in the coming future.
+        - point: -------
     - company: "Facebook"
       # id: "facebook-developer" // use this, when you want to change the id(used for navigation)
       role: "Fullstack developer"
