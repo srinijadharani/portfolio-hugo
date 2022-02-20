@@ -133,17 +133,22 @@ params:
       img: /images/project.jpg
       githublink: "https://github.com/srinijadharani/Python-Projects/tree/main/Chrome%20Dinosaur"
       featuredlink: "https://analyticsindiamag.com/how-i-played-the-chrome-dino-game-with-just-my-palm/"
-      description: "What do we see on Chrome when there is no internet connection? The classic Chrome Dinosaur Game: T-Rex Runner Game (aka the No Internet Game)! Simply press the space bar and the dinosaur will start running. Press the arrow-up key to make the dinosaur jump; the longer you press the key, the higher it jumps. Every single one of us must’ve played this game at least once. Has it ever crossed your mind that you can play this very game using just your palm?"
-    - name: "Example project without details"
+      description: "What do we see on Chrome when there is no internet connection? The classic Chrome Dinosaur Game: T-Rex Runner Game (aka the No Internet Game)! Every single one of us must’ve played this game at least once. Has it ever crossed your mind that you can play this very game using just your palm?"
+    - name: "E-Commerce Purchase Analysis"
       img: /images/project.jpg
       githublink: "https://github.com/srinijadharani/Python-Projects/tree/main/E-Commerce%20Purchase%20Analysis"
       featuredlink: "/"
-      description: "Description of project"
-    - name: "Example project without details"
+      description: "EDA of all e-commerce purchases using a dataset."
+    - name: "Face Mask Detection"
       img: /images/project.jpg
-      githublink: "https://github.com/srinijadharani/Python-Projects/tree/main/E-Commerce%20Purchase%20Analysis"
+      githublink: "https://github.com/srinijadharani/Python-Projects/tree/main/Face%20Mask%20Detection"
       featuredlink: "/"
-      description: "Description of project"
+      description: "This model detects whether you've worn a mask or not."
+    - name: "Book Recommendation System"
+      img: /images/project.jpg
+      githublink: "https://github.com/srinijadharani/Book-Recommendation-System"
+      featuredlink: "/"
+      description: "This is a recommender system recommends similar books to the reader based on his/her interest."
   # Achievements
   disable_achievements: false
   achievements:
