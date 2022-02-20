@@ -59,8 +59,6 @@ params:
   linkedin: "https://www.linkedin.com/in/srinijadharani/"
   
   customSocialLinks:
-    - imageURL: "https://hugo-profile.netlify.app/images/fav.png"
-      url: "https://gohugo.com"
     - fontAwesomeIconName: "fa fa-envelope"
       url: "https://gmail.com"
   
