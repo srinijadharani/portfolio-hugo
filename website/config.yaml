@@ -129,10 +129,11 @@ params:
   # Projects
   disable_projects: false
   projects:
-    - name: "Chrome Dinosaour Game"
-      githublink: "https://github.com/srinijadharani/Python-Projects/tree/main/Chrome%20Dinosaur"
+    - name: "Chrome Dinosaur Game"
+      img: /images/project.jpg
+      githublink: "https://github.com/srinijadharani/Chrome_Dinosaur_Game"
       featuredlink: "https://analyticsindiamag.com/how-i-played-the-chrome-dino-game-with-just-my-palm/"
-      description: "What do we see on Chrome when there is no internet connection? The classic Chrome Dinosaur Game: T-Rex Runner Game (aka the No Internet Game)! Every single one of us must’ve played this game at least once. Has it ever crossed your mind that you can play this very game using just your palm?"
+      description: "Description of project"
 
   # Achievements
   disable_achievements: false
