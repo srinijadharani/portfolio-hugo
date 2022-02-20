@@ -15,6 +15,10 @@ a:hover {
   padding-left: 3%;
   border-left: 4px solid #d61e3c;
 }
+.text-primary {
+  color: #d61e3c;
+}
+
 .hi-text {
   font-size: 20px;
 }
