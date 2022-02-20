@@ -113,6 +113,7 @@ params:
       featuredpoints:
         - point: Developed a portfolio website.
         - point: Organized and conducted many events on public speaking and oratory.
+ 
   # Education
   disable_education: false
   education:
