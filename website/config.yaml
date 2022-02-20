@@ -98,6 +98,7 @@ params:
       enddate: present
       featuredpoints:
         - point: As an SLA, I develop and maintain collaborative relationships with all the clubs and special interest groups (SIGs) on campus.
+        - point: Was also a part of the Speaking Club as the executive lead and the Entrepreneurs Club as the Vice President.
  
   # Education
   disable_education: false
