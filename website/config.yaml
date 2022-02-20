@@ -54,7 +54,7 @@ params:
   disable_home: false
   profile_image: "/images/profile-srinija.jpg"
   name: "Srinija Dharani"
-  namecolor: ffd500
+  namecolor: 007bff
   github: "https://github.com/srinijadharani"
   linkedin: "https://www.linkedin.com/in/srinijadharani/"
   
