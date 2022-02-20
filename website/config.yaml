@@ -104,20 +104,20 @@ params:
   disable_education: false
   education:
     - degree: "B.tech"
-      branch: "Information Technology"
-      university: "Example university"
+      branch: "Computer Science and Engineering | 9.53"
+      university: "GITAM Univeristy, Bangalore"
+      startedyear: "2019"
+      graduation: "2023"
+    - degree: "Pre-university"
+      branch: "PCM"
+      university: "Sri Chaitanya Techno School"
+      startedyear: "2017"
+      graduation: "2019"
+    - degree: "High School"
+      branch: "CBSE Board"
+      university: "Chinmaya Vidyalaya"
       startedyear: "2013"
-      graduation: "2018"
-    - degree: "Degree"
-      branch: "Branch"
-      university: "Example university"
-      startedyear: "year"
-      graduation: "year"
-    - degree: "Degree"
-      branch: "Branch"
-      university: "Example university"
-      startedyear: "year"
-      graduation: "year"
+      graduation: "2017"
 
   # Projects
   disable_projects: false
