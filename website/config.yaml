@@ -96,15 +96,7 @@ params:
       startdate: Nov 2021
       enddate: present
       featuredpoints:
-        - point: s an SLA, I develop and maintain collaborative relationships with all the clubs and special interest groups (SIGs) on campus.
-    - company: "Microsoft Learn"
-      # id: "amazon-developer" // use this, when you want to change the id(used for navigation)
-      role: "Beta Ambassador"
-      startdate: Jan 2021
-      enddate: Dec 2021
-      featuredpoints:
-        - point: Conducted an event on hosting a website on Azure App Services.
-        - point: Helped a few alpha ambassadors in organizing their events.
+        - point: As an SLA, I develop and maintain collaborative relationships with all the clubs and special interest groups (SIGs) on campus.
     - company: "Speaking Club, GITAM"
       # id: "amazon-developer" // use this, when you want to change the id(used for navigation)
       role: "Executive Lead"
