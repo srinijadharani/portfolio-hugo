@@ -149,7 +149,7 @@ params:
       description: "This recommender system recommends similar books to the reader based on his/her interest."
 
   # Achievements
-  disable_achievements: false
+  disable_achievements: true
   achievements:
     - title: Best Project Award
       description: Organ Donation App using Netbeans and SQL.
