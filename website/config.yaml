@@ -90,7 +90,7 @@ params:
       featuredpoints:
         - point: As a GitHub Campus Expert, I strive to build an active and thriving technical community on campus for like-minded people and bring awareness among people about how technology could significantly impact people's lives in the coming future.
         - point: Handling the AIML domain of the community.
-    - company: "GITAM Deemed to be University, Bangalore"
+    - company: "GITAM University"
       # id: "facebook-developer" // use this, when you want to change the id(used for navigation)
       role: "Student Life Associate"
       startdate: Nov 2021
@@ -105,7 +105,7 @@ params:
       featuredpoints:
         - point: Conducted an event on hosting a website on Azure App Services.
         - point: Helped a few alpha ambassadors in organizing their events.
-    - company: "Speaking Club, GITAM Deemed to be University"
+    - company: "Speaking Club, GITAM"
       # id: "amazon-developer" // use this, when you want to change the id(used for navigation)
       role: "Executive Lead"
       startdate: Aug 2020
