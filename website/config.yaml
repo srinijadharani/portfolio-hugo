@@ -104,18 +104,18 @@ params:
   disable_education: false
   education:
     - degree: "B.tech"
-      branch: "Computer Science and Engineering | 9.53"
-      university: "GITAM Univeristy, Bangalore"
+      branch: "Computer Science and Engineering"
+      university: "GITAM Univeristy, Bangalore | 9.53"
       startedyear: "2019"
       graduation: "2023"
     - degree: "Pre-university"
-      branch: "PCM"
-      university: "Sri Chaitanya Techno School"
+      branch: "CBSE Board"
+      university: "Sri Chaitanya Techno School | 87%"
       startedyear: "2017"
       graduation: "2019"
     - degree: "High School"
       branch: "CBSE Board"
-      university: "Chinmaya Vidyalaya"
+      university: "Chinmaya Vidyalaya | 10"
       startedyear: "2013"
       graduation: "2017"
 
