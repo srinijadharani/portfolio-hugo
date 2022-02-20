@@ -80,7 +80,6 @@ params:
   - name: Data Structures & Algorithms
     percentage: 85
   # Experience
-  disable_experience: false
   experience:
     - company: "GitHub"
       # id: "google-developer"   // use this, when you want to change the id(used for navigation)
