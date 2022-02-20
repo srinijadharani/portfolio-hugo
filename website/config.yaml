@@ -103,16 +103,16 @@ params:
       startdate: Jan 2021
       enddate: Dec 2021
       featuredpoints:
-        - point: Organized an event on hosting a website on Azure App Services.
+        - point: Conducted an event on hosting a website on Azure App Services.
         - point: Helped a few alpha ambassadors in organizing their events.
-     - company: "Speaking Club, GITAM Deemed to be University"
+    - company: "Speaking Club, GITAM Deemed to be University"
       # id: "amazon-developer" // use this, when you want to change the id(used for navigation)
       role: "Executive Lead"
       startdate: Aug 2020
       enddate: July 2021
       featuredpoints:
-        - point: Developed a portfolio website for the club.
-        - point: Organized many events on public speaking and oratory during my tenure as the executive lead.
+        - point: Developed a portfolio website.
+        - point: Organized and conducted many events on public speaking and oratory.
   # Education
   disable_education: false
   education:
