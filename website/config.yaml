@@ -97,6 +97,7 @@ params:
       enddate: present
       featuredpoints:
         - point: As an SLA, I develop and maintain collaborative relationships with all the clubs and special interest groups (SIGs) on campus.
+        - point: blah
     - company: "Speaking Club, GITAM"
       # id: "amazon-developer" // use this, when you want to change the id(used for navigation)
       role: "Executive Lead"
