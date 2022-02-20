@@ -60,7 +60,7 @@ params:
   
   customSocialLinks:
     - fontAwesomeIconName: "fa fa-envelope"
-      url: "srinijadharani001@gmail.com"
+      url: "dharanisrinija@gmail.com"
   
   # About
   disable_about: false
@@ -151,8 +151,8 @@ params:
   disable_achievements: true
   # Contact
   disable_contact: false
-  contact_content: My inbox is always open. Whether you have a question or just want to say hi, I'll try my best to get back to you!
-  email: "example@mail.com"
+  contact_content: If you want to talk about Harry Potter or buy me a coffee, write to me here. My inbox is always open!
+  email: "dharanisrinija@gmail.com"
 
   # Footer
   socialiconfooter: true
