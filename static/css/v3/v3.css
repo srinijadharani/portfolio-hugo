@@ -335,7 +335,7 @@ a:hover {
 }
 
 /* v3 Achievements */
-.achievements-back {
+/*.achievements-back {
   background-color: #dce6f1;
 }
 .achiv-card:hover {
@@ -366,7 +366,7 @@ a:hover {
   .achiv-out {
     max-width: 100% !important;
   }
-}
+}*/
 
 /* v3 contact */
 #contact {
