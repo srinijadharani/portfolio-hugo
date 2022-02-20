@@ -98,8 +98,15 @@ params:
       enddate: present
       featuredpoints:
         - point: As an SLA, I develop and maintain collaborative relationships with all the clubs and special interest groups (SIGs) on campus.
-        - point: Was also a part of the Speaking Club as the executive lead and the Entrepreneurs Club as the Vice President.
- 
+    - company: "Microsoft"
+      # id: "facebook-developer" // use this, when you want to change the id(used for navigation)
+      role: "Beta Ambassador"
+      startdate: Jan 2021
+      enddate: Dec 2021
+      featuredpoints:
+        - point: Conducted a workshop on hosting a website on Azure App Services.
+        - point: Helped a few Alpha Ambassadors in conducting their events.
+        
   # Education
   disable_education: false
   education:
