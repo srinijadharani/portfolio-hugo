@@ -60,7 +60,7 @@ params:
   
   customSocialLinks:
     - fontAwesomeIconName: "fa fa-envelope"
-      url: "https://gmail.com"
+      url: "srinijadharani001@gmail.com"
   
   # About
   disable_about: false
