@@ -151,20 +151,14 @@ params:
   # Achievements
   disable_achievements: false
   achievements:
-    - title: Competition winner
-      description: We are developed a product which can help others.
-      img: /images/achiv.jpg
-      url: https://example.com
-    - title: Competition winner
-      description: We are developed a product which can help others.
+    - title: Best Project Award
+      description: Organ Donation App using Netbeans and SQL.
       img: /images/achiv.jpg
       # url: https://example.com
-    - title: Competition winner
-      description: We are developed a product which can help others.
+    - title: Best Speaker Award
+      description: On International Women's Day
       img: /images/achiv.jpg
-    - title: Competition winner
-      description: We are developed a product which can help others.
-      img: /images/achiv.jpg
+      # url: https://example.com
 
   # Contact
   disable_contact: false
