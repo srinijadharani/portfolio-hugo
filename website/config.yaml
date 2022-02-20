@@ -81,31 +81,32 @@ params:
     percentage: 85
     
   # Experience
+  disable_experience: false
   experience:
-    - company: "GitHub"
+    - company: "Google"
       # id: "google-developer"   // use this, when you want to change the id(used for navigation)
-      role: "Campus Expert"
-      startdate: Oct 2021
+      role: "Software developer"
+      startdate: Feb 2021
       enddate: present
       featuredpoints:
-        - point: As a GitHub Campus Expert, I strive to build an active and thriving technical community on campus for like-minded people and bring awareness among people about how technology could significantly impact people's lives in the coming future.
-        - point: Handling the AIML domain of the community.
-    - company: "GITAM University"
+        - point: Lead backend developer for a product.
+        - point: Created a frontend design for a product.
+    - company: "Facebook"
       # id: "facebook-developer" // use this, when you want to change the id(used for navigation)
-      role: "Student Life Associate"
-      startdate: Nov 2021
-      enddate: present
+      role: "Fullstack developer"
+      startdate: Mar 2020
+      enddate: Dec 2020
       featuredpoints:
-        - point: As an SLA, I develop and maintain collaborative relationships with all the clubs and special interest groups (SIGs) on campus.
-        - point: blah
-    - company: "Speaking Club, GITAM"
+        - point: Lead backend developer for a product.
+        - point: Created a frontend design for a product.
+    - company: "Amazon"
       # id: "amazon-developer" // use this, when you want to change the id(used for navigation)
-      role: "Executive Lead"
-      startdate: Aug 2020
-      enddate: July 2021
+      role: "Fullstack developer"
+      startdate: Feb 2019
+      enddate: Jan 2020
       featuredpoints:
-        - point: Developed a portfolio website.
-        - point: Organized and conducted many events on public speaking and oratory.
+        - point: Lead backend developer for a product.
+        - point: Created a frontend design for a product.
  
   # Education
   disable_education: false
