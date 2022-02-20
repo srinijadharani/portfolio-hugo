@@ -79,6 +79,7 @@ params:
     percentage: 80
   - name: Data Structures & Algorithms
     percentage: 85
+    
   # Experience
   experience:
     - company: "GitHub"
