@@ -108,6 +108,7 @@ a:hover {
 .about-content {
   padding-left: 10% !important;
   font-size: 17px;
+  width: 100%;
 }
 .about-skill {
   padding-right: 10% !important;
