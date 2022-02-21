@@ -64,10 +64,12 @@
             <!-- customSocialLinks -->
             {{ range .Site.Params.customSocialLinks }}
             {{ if .fontAwesomeIconName }}
+            <address>
             <a href="{{ mailto:dharanisrinija@gmail.com }}" class="social-icon">
               <i class="fa-lg {{ .fontAwesomeIconName }}"></i>
               &#8203;
             </a>
+            </address>
             {{ else }}
             <a href="{{ .url }}" class="social-icon">
               <img class="fab fa-lg" src="{{ .imageURL }}" alt="{{ .name }}" width="4%" />
