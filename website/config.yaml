@@ -128,7 +128,7 @@ params:
   disable_projects: false
   projects:
     - name: "Chrome Dinosaur Game"
-      img: /images/chrome.jpg
+      img: /images/chrome.png
       githublink: "https://github.com/srinijadharani/Chrome_Dinosaur_Game"
       featuredlink: "https://analyticsindiamag.com/how-i-played-the-chrome-dino-game-with-just-my-palm/"
       description: "Description of project"
