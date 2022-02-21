@@ -128,22 +128,22 @@ params:
   disable_projects: false
   projects:
     - name: "Chrome Dinosaur Game"
-      img: /images/project.jpg
+      img: /images/chrome.jpg
       githublink: "https://github.com/srinijadharani/Chrome_Dinosaur_Game"
       featuredlink: "https://analyticsindiamag.com/how-i-played-the-chrome-dino-game-with-just-my-palm/"
       description: "Description of project"
     - name: "E-Commerce Purchase Analysis"
-      img: /images/project.jpg
+      img: /images/ecommerce.jpg
       githublink: "https://github.com/srinijadharani/Python-Projects/tree/main/E-Commerce%20Purchase%20Analysis"
       featuredlink: "/"
       description: "EDA of all e-commerce purchases using a dataset."
     - name: "Face Mask Detection"
-      img: /images/project.jpg
+      img: /images/mask.png
       githublink: "https://github.com/srinijadharani/Python-Projects/tree/main/Face%20Mask%20Detection"
       featuredlink: "/"
       description: "This model detects whether you've worn a mask or not."
     - name: "Book Recommendation System"
-      img: /images/project.jpg
+      img: /images/book.png
       githublink: "https://github.com/srinijadharani/Book-Recommendation-System"
       featuredlink: "/"
       description: "This recommender system recommends similar books to the reader based on his/her interest."
