@@ -22,22 +22,5 @@
             {{ end }}
           </div>
         </div>
-        <div class="col-md-5 about-skill">
-          <div data-aos="zoom-in-down" data-aos-offset="50" data-aos-delay="50" data-aos-once="true"
-            data-aos-duration="1000">
-            <div class="text-secondary text-center h4">Skills</div>
-            {{ range .Site.Params.skills }}
-            <div>
-              <div>{{ .name }}</div>
-              <div class="progress mb-4">
-                <div class="progress-bar" role="progressbar" style="width: {{ .percentage }}%;" aria-valuemin="0"
-                  aria-valuemax="100"></div>
-              </div>
-            </div>
-            {{ end }}
-          </div>
-        </div>
-      </div>
-    </div>
   </section>
 </div>
