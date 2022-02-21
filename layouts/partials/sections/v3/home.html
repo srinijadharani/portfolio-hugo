@@ -7,7 +7,7 @@
           data-aos-once="true">
           <div style="color: #{{ .Site.Params.namecolor }};" class="hi-text" data-aos="fade-up" data-aos-offset="50"
             data-aos-delay="50" data-aos-once="true" data-aos-duration="900">
-            {{ .Site.Params.hitext | default "Hi there, I'm" }}
+            {{ .Site.Params.hitext | default "Hey there, I'm" }}
           </div>
           <h1 class="text-primary name-text" data-aos="fade-up" data-aos-offset="200" data-aos-delay="50"
             data-aos-duration="900" data-aos-once="true">
@@ -64,12 +64,10 @@
             <!-- customSocialLinks -->
             {{ range .Site.Params.customSocialLinks }}
             {{ if .fontAwesomeIconName }}
-            <address>
-            <a href="{{ mailto:dharanisrinija@gmail.com }}" class="social-icon">
+            <a href="{{ .url }}" class="social-icon">
               <i class="fa-lg {{ .fontAwesomeIconName }}"></i>
               &#8203;
             </a>
-            </address>
             {{ else }}
             <a href="{{ .url }}" class="social-icon">
               <img class="fab fa-lg" src="{{ .imageURL }}" alt="{{ .name }}" width="4%" />
