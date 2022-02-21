@@ -155,9 +155,9 @@ params:
   email: "dharanisrinija@gmail.com"
 
   # Footer
-  socialiconfooter: true
-  recentposts: true
+  socialiconfooter: false
+  recentposts: false
 
   # Blog
   showdescription: false
-  tweet: true
+  tweet: false
