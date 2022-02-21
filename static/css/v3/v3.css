@@ -106,7 +106,7 @@ a:hover {
   padding-bottom: 3% !important;
 }
 .about-content {
-  padding-left: 10% !important;
+  /*padding-left: 10% !important;*/
   font-size: 17px;
   width: 100%;
 }
