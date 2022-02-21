@@ -193,6 +193,10 @@ a:hover {
     top: 8px;
     color: #ffffff;
   }
+  
+  .content-heading {
+    color: #ffffff;
+  }
   .content-pro-top {
     height: 80%;
     color: #ffffff;
