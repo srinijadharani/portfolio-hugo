@@ -197,7 +197,7 @@ a:hover {
     color: #6c757d;
   }
   .card-text {
-    color: #343a40;
+    color: #ffffff;
   }
   .pro:hover .content-pro {
     background-color: transparent !important;
@@ -373,3 +373,5 @@ a:hover {
 #contact {
   font-size: 17px;
 }
+
+@media only screen and (max-width: 767px) {
