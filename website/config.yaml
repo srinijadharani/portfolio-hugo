@@ -95,17 +95,17 @@ params:
       # id: "facebook-developer" // use this, when you want to change the id(used for navigation)
       role: "Student Life Associate"
       startdate: Nov 2021
-      enddate: present
+      enddate: Maar 2022
       featuredpoints:
-        - point: As an SLA, I develop and maintain collaborative relationships with all the clubs and special interest groups (SIGs) on campus.
+        - point: As an SLA, I developed and maintained collaborative relationships with all the clubs and special interest groups (SIGs) on campus.
     - company: "Microsoft"
       # id: "facebook-developer" // use this, when you want to change the id(used for navigation)
       role: "Beta Ambassador"
       startdate: Jan 2021
-      enddate: Dec 2021
+      enddate: Jan 2022
       featuredpoints:
         - point: Conducted a workshop on hosting a website on Azure App Services.
-        - point: Helped a few Alpha Ambassadors in conducting their events.
+        - point: Helped my fellow Alpha and Beta Ambassadors in conducting their events.
   
   # Education
   disable_education: false
