@@ -148,7 +148,7 @@ params:
       img: /images/book.png
       githublink: "https://github.com/srinijadharani/Book-Recommendation-System"
       featuredlink: "/"
-      description: "This recommender system recommends similar books to the reader based on his/her interest."
+      description: "This recommender system recommends similar books to readers based on their interests."
 
   disable_achievements: true
   # Contact
