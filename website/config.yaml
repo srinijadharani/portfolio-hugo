@@ -95,7 +95,7 @@ params:
       # id: "facebook-developer" // use this, when you want to change the id(used for navigation)
       role: "Student Life Associate"
       startdate: Nov 2021
-      enddate: Maar 2022
+      enddate: Mar 2022
       featuredpoints:
         - point: As an SLA, I developed and maintained collaborative relationships with all the clubs and special interest groups (SIGs) on campus.
     - company: "Microsoft"
