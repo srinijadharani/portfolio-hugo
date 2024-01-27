@@ -93,7 +93,7 @@ params:
         - point: Involved in developing a system called IRIS for anomaly detection in industries – mislabelling packets, inconsistent filling of liquids in bottles, broken seals of vaccine bottles, among others.
         - point: Worked on a video surveillance system for workplace safety to track real-time interaction of workers, construction equipment, and machinery, and maintain workplace protocol.
         - point: Involved in the team that participated in the Hannover Messe Exhibition 2022 under the AI & Machine Learning domain.
-      - company: "GitHub"
+    - company: "GitHub"
       role: "Campus Expert"
       startdate: Oct 2021
       enddate: present
