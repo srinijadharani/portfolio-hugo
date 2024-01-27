@@ -60,7 +60,7 @@ params:
   
   customSocialLinks:
     - fontAwesomeIconName: "fa fa-envelope"
-      url: "dharanisrinija@gmail.com"
+      url: "srinijadharani2@gmail.com"
   
   # About
   disable_about: false
@@ -70,21 +70,24 @@ params:
 
   skills:
   - name: Data Science
-    percentage: 90
   - name: Machine Learning
-    percentage: 95
   - name: Computer Vision
-    percentage: 95
   - name: Deep Learning
-    percentage: 80
   - name: Data Structures & Algorithms
-    percentage: 85
+  - name: Web Development
     
   # Experience
   disable_experience: false
   experience:
-    - company: "GitHub"
-      # id: "google-developer"   // use this, when you want to change the id(used for navigation)
+    - company: "Tata Elxsi"
+      role: "AI Intern"
+      startdate: May 2022
+      enddate: Aug 2022
+      featuredpoints:
+        - point: Involved in developing a system called IRIS for anomaly detection in industries – mislabelling packets, inconsistent filling of liquids in bottles, broken seals of vaccine bottles, among others.
+        - point: Worked on a video surveillance system for workplace safety to track real-time interaction of workers, construction equipment, and machinery, and maintain workplace protocol.
+        - point: Involved in the team that participated in the Hannover Messe Exhibition 2022 under the AI & Machine Learning domain.
+      - company: "GitHub"
       role: "Campus Expert"
       startdate: Oct 2021
       enddate: present
@@ -92,14 +95,12 @@ params:
         - point: Building an active and thriving technical community on campus for like-minded people and bring awareness among people about how technology could significantly impact people's lives in the coming future.
         - point: Handling the AIML domain of the community.
     - company: "GITAM"
-      # id: "facebook-developer" // use this, when you want to change the id(used for navigation)
       role: "Student Life Associate"
       startdate: Nov 2021
       enddate: Mar 2022
       featuredpoints:
         - point: As an SLA, I developed and maintained collaborative relationships with all the clubs and special interest groups (SIGs) on campus.
     - company: "Microsoft"
-      # id: "facebook-developer" // use this, when you want to change the id(used for navigation)
       role: "Beta Ambassador"
       startdate: Jan 2021
       enddate: Jan 2022
@@ -110,22 +111,16 @@ params:
   # Education
   disable_education: false
   education:
+    - degree: "Master's"
+      branch: "Computer Science"
+      university: "Florida State University | 3.7"
+      startedyear: "2023"
+      graduation: "2025"
     - degree: "B.tech"
       branch: "Computer Science and Engineering"
       university: "GITAM Univeristy, Bangalore | 9.53"
       startedyear: "2019"
       graduation: "2023"
-    - degree: "Pre-university"
-      branch: "CBSE Board"
-      university: "Sri Chaitanya Techno School | 87%"
-      startedyear: "2017"
-      graduation: "2019"
-    - degree: "High School"
-      branch: "CBSE Board"
-      university: "Chinmaya Vidyalaya | 10"
-      startedyear: "2013"
-      graduation: "2017"
-
   # Projects
   disable_projects: false
   projects:
@@ -134,11 +129,11 @@ params:
       githublink: "https://github.com/srinijadharani/Chrome_Dinosaur_Game"
       featuredlink: "https://analyticsindiamag.com/how-i-played-the-chrome-dino-game-with-just-my-palm/"
       description: "Description of project"
-    - name: "E-Commerce Purchase Analysis"
-      img: /images/ecommerce.jpg
-      githublink: "https://github.com/srinijadharani/Python-Projects/tree/main/E-Commerce%20Purchase%20Analysis"
-      featuredlink: "/"
-      description: "EDA of all e-commerce purchases using a dataset."
+    - name: "Chrome Dinosaur Game"
+      img: /images/chrome.png
+      githublink: "https://github.com/srinijadharani/Chrome_Dinosaur_Game"
+      featuredlink: "https://analyticsindiamag.com/how-i-played-the-chrome-dino-game-with-just-my-palm/"
+      description: "Description of project"
     - name: "Face Mask Detection"
       img: /images/mask.png
       githublink: "https://github.com/srinijadharani/Python-Projects/tree/main/Face%20Mask%20Detection"
