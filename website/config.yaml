@@ -100,12 +100,6 @@ params:
       featuredpoints:
         - point: Building an active and thriving technical community on campus for like-minded people and bring awareness among people about how technology could significantly impact people's lives in the coming future.
         - point: Handling the AIML domain of the community.
-    - company: "GITAM"
-      role: "Student Life Associate"
-      startdate: Nov 2021
-      enddate: Mar 2022
-      featuredpoints:
-        - point: As an SLA, I developed and maintained collaborative relationships with all the clubs and special interest groups (SIGs) on campus.
     - company: "Microsoft"
       role: "Beta Ambassador"
       startdate: Jan 2021
